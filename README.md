@@ -10,11 +10,20 @@
 
 ### JavaScript 동적이다.
 <script> // JavaScript를 쓸 것이다 선전포고
-document.write(1+1) -> 2가 나옴
-</script>
+<br> document.write(1+1) -> 2가 나옴
+<br></script>
 
 ### event: 웹브라우저에서 일어나는 일
 
 ### console: 파일을 만들지 않고도 javascript 코드를 즉석에서 실행할 수 있다
 
 console에서 실행시키는 JS는 웹페이지를 대상으로 실행되게 된다.
+
+### JavaScript DataType
+
+- Boolean
+- Null
+- Undefined
+- Number
+- String
+- Symbol
